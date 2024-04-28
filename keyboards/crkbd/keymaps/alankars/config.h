@@ -71,7 +71,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // RGB Matrix Animation modes. Explicitly enabled
 // For full list of effects, see:
 // https://docs.qmk.fm/#/feature_rgb_matrix?id=rgb-matrix-effects
-/* #    define ENABLE_RGB_MATRIX_ALPHAS_MODS */
+#    define ENABLE_RGB_MATRIX_ALPHAS_MODS
 /* #    define ENABLE_RGB_MATRIX_GRADIENT_UP_DOWN */
 /* #    define ENABLE_RGB_MATRIX_GRADIENT_LEFT_RIGHT */
 /* #    define ENABLE_RGB_MATRIX_BREATHING */
@@ -110,7 +110,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #    define ENABLE_RGB_MATRIX_SOLID_REACTIVE_MULTIWIDE
 /* #    define ENABLE_RGB_MATRIX_SOLID_REACTIVE_CROSS */
 /* #    define ENABLE_RGB_MATRIX_SOLID_REACTIVE_MULTICROSS */
-#    define ENABLE_RGB_MATRIX_SOLID_REACTIVE_NEXUS
+/* #    define ENABLE_RGB_MATRIX_SOLID_REACTIVE_NEXUS */
 /* #    define ENABLE_RGB_MATRIX_SOLID_REACTIVE_MULTINEXUS */
 /* #    define ENABLE_RGB_MATRIX_SPLASH */
 #    define ENABLE_RGB_MATRIX_MULTISPLASH
