@@ -32,7 +32,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define NO_AUTO_SHIFT_NUMERIC
 #define NO_AUTO_SHIFT_SPECIAL
 /* #define AUTO_SHIFT_MODIFIERS */
-#define QUICK_TAP_TERM 0
+#define QUICK_TAP_TERM 100
 #define TAPPING_TERM 100
 
 #ifdef RGBLIGHT_ENABLE
