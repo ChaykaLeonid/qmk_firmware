@@ -31,7 +31,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define AUTO_SHIFT_REPEAT
 #define AUTO_SHIFT_NO_AUTO_REPEAT
 #define NO_AUTO_SHIFT_NUMERIC
-#define NO_AUTO_SHIFT_SPECIAL
+/* #define NO_AUTO_SHIFT_SPECIAL */
 /* #define AUTO_SHIFT_MODIFIERS */
 #define QUICK_TAP_TERM 100
 #define TAPPING_TERM 100
