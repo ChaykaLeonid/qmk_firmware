@@ -28,7 +28,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // #define MASTER_RIGHT
 // #define EE_HANDS
 
-#define AUTO_SHIFT_TIMEOUT 120
+#define AUTO_SHIFT_TIMEOUT 200
+#define NO_AUTO_SHIFT_NUMERIC
+#define NO_AUTO_SHIFT_SPECIAL
 /* #define AUTO_SHIFT_MODIFIERS */
 #define QUICK_TAP_TERM 0
 #define TAPPING_TERM 100
