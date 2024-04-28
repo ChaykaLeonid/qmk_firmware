@@ -1,5 +1,4 @@
-/*
-This is the c configuration file for the keymap
+/* This is the c configuration file for the keymap
 
 Copyright 2012 Jun Wako <wakojun@gmail.com>
 Copyright 2015 Jack Humbert
@@ -29,6 +28,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // #define EE_HANDS
 
 #define AUTO_SHIFT_TIMEOUT 200
+#define AUTO_SHIFT_REPEAT
+#define AUTO_SHIFT_NO_AUTO_REPEAT
 #define NO_AUTO_SHIFT_NUMERIC
 #define NO_AUTO_SHIFT_SPECIAL
 /* #define AUTO_SHIFT_MODIFIERS */
